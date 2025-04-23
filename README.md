@@ -1,5 +1,16 @@
 # TASK-2
 
+**COMPANY**: CODETECH IT SOLUTIONS
+
+**NAME**: DEVAM R.MISTRY
+
+**DOMAIN**: POWER-BI
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
+
 Step 1: Load Data from Excel
 Open Power BI Desktop.
 
