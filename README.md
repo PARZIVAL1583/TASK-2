@@ -90,3 +90,5 @@ Save your report as a .pbix file.
 Click Publish in the Home ribbon to upload the report to Power BI Service.
 
 Share the report with stakeholders or embed it in applications.
+
+![Image](https://github.com/user-attachments/assets/5b870f7e-9e43-4269-9eee-0f674540a821)
